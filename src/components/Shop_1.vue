@@ -128,7 +128,7 @@ const travelList=ref([
   justify-content: center;
   align-items: center;
   margin: auto;
-  background-image: linear-gradient( 135deg, #FAD7A1 100%, #E96D71 100%); 
+  background-image: linear-gradient( 150deg, #FAD7A1 100%, #E96D71 100%); 
 }
 .buttom{
   width: 100px;
