@@ -128,13 +128,13 @@ const travelList=ref([
   justify-content: center;
   align-items: center;
   margin: auto;
-  background-image: linear-gradient( 135deg, #FFA6B7 10%, #1E2AD2 100%); /* เพิ่ม margin:auto เพื่อจัดให้กล้องอยู่ตรงกลางแนวนอน */
+  background-image: linear-gradient( 135deg, #FAD7A1 100%, #E96D71 100%); 
 }
 .buttom{
   width: 100px;
 }
 .btn-primary {
-  width: 100%; /* ปรับความกว้างให้เต็มกล่อง */
+  width: 100%; 
   display: flex;
   justify-content: center;
   align-items: center;
